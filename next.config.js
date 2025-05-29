@@ -5,8 +5,7 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: '/we-can-voice-website', // Replace with your repository name
-  assetPrefix: '/we-can-voice-website/', // Replace with your repository name
+  // Remove basePath and assetPrefix for now - we'll add them after creating the repo
 }
 
 module.exports = nextConfig
